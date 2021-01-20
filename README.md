@@ -17,8 +17,10 @@
   * from your terminal/command prompt, got to your directory containing *main.py* and type **streamlit run main.py** 
   * Localhost would be opened and use as per instructed on the webpage
   
+ ## The dataset `chext_xray` is also uploaded and can be downloaded from Kaggle [Go to the Support Web Site](https://support.west-wind.com)
   
- ### Note:  `Pneumonia Detection using CNN.ipynb` & `Loading Pneum Det.ipynb` are just there for your own interest and are not required to run the project.
+  
+Note:  `Pneumonia Detection using CNN.ipynb` & `Loading Pneum Det.ipynb` are just there for your own interest and are not required to run the project.
  
  
  
