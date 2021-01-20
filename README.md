@@ -24,7 +24,7 @@
   If you're interested in knowing what you are using, you can refer to the accuracy graphs below for the model I am using. 
   | col 1      | col 2      |
 |------------|-------------|
-| <img src=/images/Capture.png width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
+| <img src= Pneumonia-Detection-web-app-using-Streamlit/images/Capture.PNG width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250"> |
 
 Note:  `Pneumonia Detection using CNN.ipynb` & `Loading Pneum Det.ipynb` are just there for your own interest and are not required to run the project.
  
