@@ -19,7 +19,12 @@
   
  ## The dataset `chext_xray` used for training can be downloaded from [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   
-  
+
+## Model Perforemance: 
+  If you're interested in knowing what you are using, you can refer to the accuracy graphs below for the model I am using. 
+  ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+
 Note:  `Pneumonia Detection using CNN.ipynb` & `Loading Pneum Det.ipynb` are just there for your own interest and are not required to run the project.
  
  
