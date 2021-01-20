@@ -13,4 +13,6 @@
     
 ## To run the project:
   * Pip install streamlit
-  
+  * use a python IDE of your choice (I used Spyder) and run main.py
+  * from your terminal/command prompt, got to your directory containing *main.py* and type **streamlit run main.py** 
+  * Localhost would be opened and use as per instructed on the webpage
