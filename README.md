@@ -1,4 +1,16 @@
 # Pneumonia-Detection-web-app-using-Streamlit
 
-## This project contains 3 main files each doing a different takse
-
+## This project contains 4 main files each doing a different task. They are:
+  * Pneumonia Detection using CNN.ipynb
+    * Used to create train and evaluate a CNN model for detecting Pnuemonia. The dataset used to achieve this is 'Chest_Xray' dataset.
+      The Model's performance and evaluation can be all figured from here
+  * Loading Pneum Det.ipynb
+    * Used to load the model which can be later verified and used separately, sparing us from the hectic training process of a model everytime it needs to be used
+  * my_model.h5
+    * Contains the saved CNN Model to be used
+  * main.py
+    * The streamlit web app coded which is used to take user X-Ray image input and predict the respective outcome.
+    
+## To run the project:
+  * Pip install streamlit
+  
