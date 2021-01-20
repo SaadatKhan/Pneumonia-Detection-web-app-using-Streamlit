@@ -16,3 +16,10 @@
   * use a python IDE of your choice (I used Spyder) and run main.py
   * from your terminal/command prompt, got to your directory containing *main.py* and type **streamlit run main.py** 
   * Localhost would be opened and use as per instructed on the webpage
+  
+  
+ ### Note:  `Pneumonia Detection using CNN.ipynb` & `Loading Pneum Det.ipynb` are just there for your own interest and are not required to run the project.
+ 
+ 
+ 
+ Enjoy
