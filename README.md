@@ -1,4 +1,4 @@
-# Pneumonia-Detection-web-app-using-Streamlit
+# Pneumonia Detection web app using Streamlit
 
 ## This project contains 4 main files each doing a different task. They are:
   * `Pneumonia Detection using CNN.ipynb`
